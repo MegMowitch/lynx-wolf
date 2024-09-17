@@ -5,4 +5,4 @@ Scripts created for my BSc thesis: **ANTHROPOGENIC EFFECTS ON INTRAGUILD INTERAC
 completed at the Department of Ecology and Vertebrate Zoology under the supervision of Dr. Maciej Szewczyk, and Dr. Elise Say-Sallaz from the Mammal Research Institute of the Polish Academy of Sciences
 
 Author: Małgorzata (Gosia) Harasimowicz
-e-mail: megmowitch@gmail.com
+e-mail: mal.harasimowicz@gmail.com
